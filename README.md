@@ -48,4 +48,81 @@ I enjoy building modern web applications, learning new technologies, and creatin
 
 </div>
 
+---<!-- ========================================================= -->
+<!--                    ABOUT & TECH STACK                     -->
+<!-- ========================================================= -->
+
+## 🚀 About Me
+
+```yaml
+Name        : Sahedur Rahman Siyam
+Username    : Skybite4u
+Based In    : Bangladesh 🇧🇩
+
+Focus:
+  - Full Stack Web Development
+  - Modern UI/UX
+  - Artificial Intelligence
+  - Open Source
+
+Currently Exploring:
+  - Next.js
+  - TypeScript
+  - Supabase
+  - PostgreSQL
+  - Machine Learning
+
+Philosophy:
+  Build software that is fast,
+  scalable and meaningful.
+```
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase" />
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,figma" />
+
+<br><br>
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=python,docker" />
+
+</div>
+
+---
+
+## 📈 Current Goals
+
+- 🚀 Build high-quality production-ready web applications
+- 🤖 Learn Artificial Intelligence & Machine Learning
+- 🌍 Contribute to Open Source projects
+- 📚 Improve software architecture skills
+- ⚡ Write clean, maintainable code every day
+
+---
+
+<div align="center">
+
+> **"Consistency builds better developers than talent alone."**
+
+</div>
+
 ---
