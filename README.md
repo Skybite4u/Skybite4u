@@ -275,4 +275,74 @@ A productivity-focused Pomodoro application built to improve focus and daily wor
 
 </div>
 
+---<!-- ========================================================= -->
+<!--                  CONNECT WITH ME                          -->
+<!-- ========================================================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Skybite4u">
+<img src="https://img.shields.io/badge/GitHub-Skybite4u-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/__.siyam__/">
+<img src="https://img.shields.io/badge/Instagram-__.siyam__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+```text
+✅ Build Professional Portfolio
+
+✅ Build Zenith Pomodoro
+
+⬜ Learn Docker
+
+⬜ Learn CI/CD
+
+⬜ Learn Advanced PostgreSQL
+
+⬜ Learn AI & Machine Learning
+
+⬜ Contribute to Open Source
+
+⬜ Build SaaS Products
+```
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6C2BD9,50:4F46E5,100:2563EB"/>
+
+</div>---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Skybite4u/Skybite4u/output/github-contribution-grid-snake-dark.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Skybite4u/Skybite4u/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
 ---
