@@ -256,4 +256,82 @@ src="https://raw.githubusercontent.com/Skybite4u/Skybite4u/output/github-contrib
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
+<!-- ====================================================== -->
+<!--               PROFESSIONAL DEVELOPER CARD              -->
+<!-- ====================================================== -->
 
+<h2 align="center">👨‍💻 Developer Profile</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 🚀 Focus Areas
+
+- 🌐 Full Stack Web Development
+- ⚛️ Next.js & React
+- 🗄️ Supabase & PostgreSQL
+- 🤖 Artificial Intelligence
+- 📱 Responsive UI/UX
+- 🔐 Authentication Systems
+- ☁️ Cloud Technologies
+
+</td>
+
+<td>
+
+### 🎯 Current Mission
+
+```text
+✓ Building Production-Level Projects
+
+✓ Exploring Artificial Intelligence
+
+✓ Writing Clean & Maintainable Code
+
+✓ Learning Every Day
+
+✓ Contributing to Open Source
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://github.com/Skybite4u">
+<img src="https://img.shields.io/badge/GitHub-Skybite4u-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/__.siyam__/">
+<img src="https://img.shields.io/badge/Instagram-__.siyam__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">💭 Developer Mindset</h2>
+
+<div align="center">
+
+> *"Technology changes every day. Learning never stops."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+</div>
