@@ -125,4 +125,56 @@ Philosophy:
 
 </div>
 
+---<!-- ========================================================= -->
+<!--                  GITHUB ANALYTICS                         -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Skybite4u&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Skybite4u&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skybite4u&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skybite4u&theme=github-dark&hide_border=true&radius=12"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Skybite4u&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📌 Development Mindset
+
+> **"Every commit is one step closer to mastery."**
+
+</div>
+
 ---
