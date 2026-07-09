@@ -173,5 +173,61 @@ Mission   : Building Scalable & Beautiful Digital Experiences
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+</div><!-- ====================================================== -->
+<!--                 GITHUB ANALYTICS                       -->
+<!-- ====================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+<i>Tracking my development journey, one commit at a time.</i>
+</p>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Skybite4u&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Skybite4u&theme=tokyonight&hide_border=true&border_radius=15"/>
+
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skybite4u&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Skybite4u&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4"/>
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skybite4u&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building. Learning. Improving.
+
+<i>Every project is an opportunity to learn something new.</i>
+
+</div>
+
+---
 
