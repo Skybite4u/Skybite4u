@@ -76,4 +76,102 @@ Mission   : Building Scalable & Beautiful Digital Experiences
 
 </div>
 
+---<!-- ====================================================== -->
+<!--                  PREMIUM TECH STACK                    -->
+<!-- ====================================================== -->
+
+<h2 align="center">
+⚡ Tech Arsenal
+</h2>
+
+<p align="center">
+<i>Technologies I use to build modern, scalable applications.</i>
+</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,tailwind,html,css,supabase,postgres,mongodb,firebase" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,vercel,npm,bash" />
+
+</div>
+
 ---
+
+# 💻 Development Environment
+
+<div align="center">
+
+| 💻 Category | 🚀 Technologies |
+|-------------|----------------|
+| **Frontend** | Next.js • React • Tailwind CSS • HTML • CSS |
+| **Backend** | Supabase • PostgreSQL • Firebase |
+| **Programming** | TypeScript • JavaScript • Python |
+| **Version Control** | Git • GitHub |
+| **Deployment** | Vercel |
+| **Tools** | VS Code • npm • Bash |
+
+</div>
+
+---
+
+# 🚀 Currently Learning
+
+```text
+🧠 Artificial Intelligence
+
+🤖 Machine Learning
+
+☁️ Cloud Computing
+
+⚙️ Backend Architecture
+
+🔐 Authentication Systems
+
+📱 UI / UX Design
+
+🏗️ Production-Level Software Engineering
+```
+
+---
+
+# 🎯 2026 Goals
+
+```text
+✅ Master Next.js
+
+✅ Become an AI Engineer
+
+✅ Build SaaS Applications
+
+✅ Contribute to Open Source
+
+✅ Publish High-Quality Projects
+
+✅ Learn System Design
+
+✅ Master PostgreSQL
+
+✅ Become a Better Problem Solver
+```
+
+---
+
+<div align="center">
+
+## 💡 Favorite Quote
+
+> "Great software isn't just written — it's carefully designed."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+</div>
+
