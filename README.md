@@ -334,4 +334,87 @@ src="https://raw.githubusercontent.com/Skybite4u/Skybite4u/output/github-contrib
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
+</div><!-- ====================================================== -->
+<!--                FEATURED PROJECTS                       -->
+<!-- ====================================================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+Projects that represent my learning journey and development experience.
+</p>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio
+
+A modern developer portfolio designed to showcase my projects, skills, and continuous learning journey.
+
+### Highlights
+
+- ✨ Modern UI
+- ⚡ Fast Performance
+- 📱 Responsive Design
+- 🎨 Beautiful Animations
+- 🚀 Optimized Experience
+
+</td>
+
+<td width="50%">
+
+## ⏳ Zenith Pomodoro
+
+A clean and productivity-focused Pomodoro application designed to improve focus and daily workflow.
+
+### Features
+
+- 🍅 Pomodoro Timer
+- 📊 Productivity Tracking
+- 🌙 Dark Mode
+- 🔔 Smart Notifications
+- 📈 Focus Statistics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🏅 What I'm Working On</h2>
+
+<div align="center">
+
+| 🚀 Current Focus | 📚 Status |
+|-----------------|----------|
+| Full Stack Development | 🟢 Active |
+| Artificial Intelligence | 🟢 Learning |
+| Machine Learning | 🟢 Learning |
+| UI / UX Design | 🟢 Improving |
+| System Design | 🟡 Exploring |
+| Open Source | 🟢 Contributing |
+
+</div>
+
+---
+
+<h2 align="center">📌 Developer Philosophy</h2>
+
+<div align="center">
+
+> *"I believe great software is built through curiosity, consistency, and continuous improvement."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
 </div>
