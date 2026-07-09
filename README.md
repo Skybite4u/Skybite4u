@@ -178,3 +178,101 @@ Philosophy:
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+A modern developer portfolio showcasing my work, technical skills, and continuous learning journey.
+
+**Highlights**
+
+- ⚡ Lightning Fast
+- 🎨 Modern UI
+- 📱 Responsive Design
+- 🌙 Dark Mode
+- ✨ Smooth Animations
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⏳ Zenith Pomodoro
+
+A productivity-focused Pomodoro application built to improve focus and daily workflow.
+
+**Features**
+
+- 🍅 Smart Pomodoro Timer
+- 📊 Productivity Analytics
+- 🌙 Dark Theme
+- 🔔 Notifications
+- 📈 Session Tracking
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 🧠 What I'm Exploring
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| Next.js | ██████████ 100% |
+| TypeScript | ████████░░ 80% |
+| Supabase | ███████░░░ 70% |
+| PostgreSQL | ██████░░░░ 60% |
+| Artificial Intelligence | █████░░░░░ 50% |
+| Machine Learning | ████░░░░░░ 40% |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Personal Motto
+
+> **"Build. Break. Learn. Improve. Repeat."**
+
+</div>
+
+---
